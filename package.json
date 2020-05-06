@@ -1,14 +1,14 @@
 {
   "name": "weather-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple weather forecasting CLI app using Mapbox and Weatherstack API in Node.js",
   "main": "app.js",
   "scripts": {
     "devstart": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Muhamad Rizqi Farhan",
+  "license": "MIT",
   "dependencies": {
     "request": "^2.88.2",
     "yargs": "^15.3.1"
